@@ -1,2 +1,2 @@
 # cnn-pokemon
-Image CNN applied to Pokemon
+Welcome to this project where we will do image CNN with Pokemon first generation !
